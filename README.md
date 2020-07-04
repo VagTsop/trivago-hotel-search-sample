@@ -1,2 +1,2 @@
-# Trivago - website - sample 
-Dynamic web page built with Javascript and jquery
+# Trivago - hotel-search - sample 
+Dynamic web page built with Javascript async functions and Jquery
